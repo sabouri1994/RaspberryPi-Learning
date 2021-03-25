@@ -13,6 +13,10 @@ https://www.sean.co.uk/books/raspberry-pi-for-dummies/index.shtm
 ---------------
 The Raspberry Pi User Guide
 
+![image](https://user-images.githubusercontent.com/59387142/112520782-65b8ad00-8db9-11eb-9f11-d03053849f40.png)
+
+was co-written by Eben Upton, creator of the Raspberry Pi and co-founder of the Raspberry Pi Foundation. So it’s fair to say that the information in this guide comes directly from the horse’s mouth…so to speak. You can read an excerpt of the book on the publisher’s website.
+
 
 __
 Reference
